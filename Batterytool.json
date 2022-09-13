@@ -1,11 +1,11 @@
 {
  "ControleAd" : {
-    "adscontrole" : "max",
+    "adscontrole" : "admob",
 	  
     "appkey" : "pElOULuPCD",
 
-    "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
-	  "interadmob" : "ca-app-pub-3940256099942544/1033173712",
+    "banneradmob" : "ca-app-pub-2209891356444974/9883376951",
+	  "interadmob" : "ca-app-pub-2209891356444974/5070033973",
 	
     "bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  "interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
