@@ -24,7 +24,7 @@
 	
     "rankUnlock" : 0,
 	 
-    "backpressed" : 1,
+    "backpressed" : 0,
 	  
     "searchOrInstal" : "search0",
     "keywordSearch" : "touchescreen repair",
