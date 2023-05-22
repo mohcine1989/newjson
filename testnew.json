@@ -24,7 +24,7 @@
 	
     "rankUnlock" : 0,
 	 
-    "backpressed" : 1,
+    "backpressed" : 0,
     "urlBackPressed" : "https://www.kooora.com",
 	  
     "searchOrInstal" : "search0",
