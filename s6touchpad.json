@@ -1,0 +1,38 @@
+{
+ "ControleAd" : {
+    "adscontrole" : "admob",
+	  
+    "appkey" : "isiVHMQ6W0",
+
+    "bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+    "interMax" : "1b223fbcc1622563",
+	  "bannerMax" : "93a48a4acfc48a1e",
+	
+    "unityid" : "4038019",
+	  "testmode" : true ,
+    "bannerId" : "Banner_Android",
+    "interstitelID" : "Interstitial_Android",
+	
+    "bannerimage" : true,
+    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+    "urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html",
+	
+    "rankUnlock" : 1,
+	  
+    "searchOrInstal" : "search",
+    "keywordSearch" : "touchescreen repair",
+    "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
+    
+    "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
+	  
+    "privacyLink" :  "https://appprivacypolicy101.blogspot.com/2021/05/app-privacy-policy.html",
+   
+    "engineering" : true ,
+           "packagename" : "cz.video.black",
+	  
+    "rte" : "Support us by give 5 stars and write your review ",
+    "rtename" : "Rate Apps"
+  }
+}
